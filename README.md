@@ -1,0 +1,4 @@
+sudoku
+======
+
+solves sudoku puzzles
